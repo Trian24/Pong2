@@ -1,1 +1,1 @@
-# Pong2 Pong game using monogame
+# Pong game using monogame
